@@ -1,0 +1,14 @@
+The similarity between the two articles is 0.00%(.//text//empty.txt	and	.//text//orig.txt)
+
+The similarity between the two articles is 100.00%(.//text//orig.txt	and	.//text//orig.txt)
+
+The similarity between the two articles is 97.44%(.//text//orig.txt	and	.//text//orig_0.8_add.txt)
+
+The similarity between the two articles is 97.37%(.//text//orig.txt	and	.//text//orig_0.8_del.txt)
+
+The similarity between the two articles is 99.13%(.//text//orig.txt	and	.//text//orig_0.8_dis_1.txt)
+
+The similarity between the two articles is 96.37%(.//text//orig.txt	and	.//text//orig_0.8_dis_10.txt)
+
+The similarity between the two articles is 97.22%(.//text//orig.txt	and	.//text//orig_0.8_dis_15.txt)
+
